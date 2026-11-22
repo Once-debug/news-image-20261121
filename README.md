@@ -8,9 +8,10 @@ This entry renders "THE WORLD TODAY", a 1024×1024 newspaper front page that
 sums up Saturday 21 November 2026's world news in a single image: the lead
 story is the Russian missiles and drone that crashed in Poland beside a
 NATO exercise and the alliance's emergency response, joined by panels on
-Denmark expelling a Russian diplomat over an assassination plot, the
-deadlocked COP31 climate talks running into overtime, and the widening
-Iran confrontation, with a markets panel on the AI sell-off's worst week.
+the COP31 climate talks nearing a deal after two days of overtime, two more
+tankers struck in the Strait of Hormuz, and Denmark expelling a Russian
+diplomat over an assassination plot, with a markets panel on the AI
+sell-off's worst week.
 The page is drawn programmatically with Python PIL by
 `tools/make_image.py` — the lead story is carried by an editorial
 illustration band committed at `assets/lead-illustration.webp` — and `main.ts`
